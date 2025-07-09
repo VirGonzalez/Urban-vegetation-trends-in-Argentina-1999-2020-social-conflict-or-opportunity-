@@ -18,10 +18,6 @@ This project analyzes socioeconomic changes across major Argentine cities using 
 
 The following R packages are required:
 
-```r
-install.packages(c("sf", "dplyr", "purrr", "broom", "tibble", 
-                   "ggplot2", "mgcv", "gamm4", "forestplot"))
-
 ---
 
 ## ▶️ How to Run
