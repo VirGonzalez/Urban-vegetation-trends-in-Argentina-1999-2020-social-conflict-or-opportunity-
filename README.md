@@ -21,3 +21,48 @@ The following R packages are required:
 ```r
 install.packages(c("sf", "dplyr", "purrr", "broom", "tibble", 
                    "ggplot2", "mgcv", "gamm4", "forestplot"))
+
+
+
+## ▶️ How to Run
+Ensure that the input shapefile data_vf.shp is located inside a datos/ folder.
+
+Open the gam_effects_by_city.R script in RStudio or your preferred R environment.
+
+Run the script. It will:
+
+Load and scale the data by city.
+
+Compute changes (delta) in variables between initial and final states.
+
+Fit GAM models for each city separately.
+
+Extract model coefficients and assess significance.
+
+Generate forest plots and facet plots to visualize results.
+
+## 📊 Expected Output
+GAM models fitted per city.
+
+A tidy table with coefficients, standard errors, p-values, and significance indicators.
+
+Visual plots showing the effect size of each variable on Relative.v, stratified by city.
+
+## 🌆 Cities Analyzed
+Great Buenos Aires
+
+Great Córdoba
+
+Great Rosario
+
+Great San Miguel de Tucumán
+
+Great Salta
+
+## 📝 Notes
+Non-informative terms like te(x,y) and intercepts are excluded from plots.
+
+It's recommended to run the script in a clean R session to avoid object conflicts.
+
+## 📬 Contact
+For questions, comments, or collaborations, contact virginiagonzalez782@gmail.com.
