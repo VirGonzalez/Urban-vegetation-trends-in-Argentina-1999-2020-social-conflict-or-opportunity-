@@ -1,4 +1,16 @@
-# Urban_Greening_ms
+Urban vegetation trends in Argentina 1999-2020: social conflict or opportunity?
+
+
+María V González ,1*,
+1. Instituto de Ecología Regional (IER), Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)–Universidad Nacional de Tucumán (UNT), Edificio las Cúpulas, Residencia Universitaria de Horco Molle (4107), Yerba Buena, Tucumán, Argentina
+Yohana G Jimenez 1
+1. Instituto de Ecología Regional (IER), Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)–Universidad Nacional de Tucumán (UNT), Edificio las Cúpulas, Residencia Universitaria de Horco Molle (4107), Yerba Buena, Tucumán, Argentina
+
+Ezequiel Aráoz 1,2,
+1. Instituto de Ecología Regional (IER), Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)–Universidad Nacional de Tucumán (UNT), Edificio las Cúpulas, Residencia Universitaria de Horco Molle (4107), Yerba Buena, Tucumán, Argentina
+2.Facultad de Ciencias Naturales e Instituto Miguel Lillo, Universidad Nacional de Tucumán (UNT), Miguel Lillo 205 (4000), San Miguel de Tucumán, Tucumán, Argentina
+
+Corresponding author: Maria Virginia Gonzalez. Email address: virginiagonzalez782@gmail.com-
 
 # Socioeconomic Change Analysis Using GAM Models by City
 
